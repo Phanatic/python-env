@@ -6,4 +6,4 @@ applications:
   host: sample_python
   domain: cf.helion.space
   # We have provisioned and bound services
-  services:
+  services: []
